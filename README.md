@@ -136,7 +136,7 @@ Sorry, I couldn't understand your question.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AskBot-AI.git
+git clone https://github.com/durgashekhawat10-svg/AskBot-AI.git
 ```
 
 ### 2. Navigate to the Project Directory
