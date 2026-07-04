@@ -6,22 +6,6 @@ This project demonstrates the practical application of NLP techniques for buildi
 
 ---
 
-## 📖 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [Project Structure](#-project-structure)
-- [How It Works](#-how-it-works)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Sample Questions](#-sample-questions)
-- [Future Enhancements](#-future-enhancements)
-- [Author](#-author)
-- [License](#-license)
-
----
-
 ## 📌 Overview
 
 AskBot AI is a rule-based intelligent chatbot that answers user queries by finding the most similar question from a collection of Frequently Asked Questions (FAQs).
@@ -60,12 +44,13 @@ Unlike traditional keyword-based systems, AskBot AI preprocesses user input, con
 
 ```
 AskBot-AI/
-│
-├── app.py               # Gradio user interface
-├── chatbot.py           # NLP processing and chatbot logic
-├── faq_data.py          # FAQ questions and answers
-├── requirements.txt     # Required Python packages
-└── README.md            # Project documentation
+│--  LICENSE
+|--  README.md            # Project documentation
+|--  app.py               # Gradio user interface
+|--  chatbot.py           # NLP processing and chatbot logic
+|--  faq_data.py          # FAQ questions and answers
+|--  requirements.txt     # Required Python packages
+|--  screenshots          #display the outcomes
 ```
 
 ---
