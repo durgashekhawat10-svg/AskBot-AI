@@ -1,4 +1,4 @@
-# 🤖 AskBot AI
+# AskBot AI
 
 **AskBot AI** is an intelligent FAQ chatbot built using **Python**, **Natural Language Processing (NLP)**, **NLTK**, **Scikit-learn**, and **Gradio**. It is designed to answer frequently asked questions by understanding user input and matching it with the most relevant question from a predefined knowledge base using **TF-IDF Vectorization** and **Cosine Similarity**.
 
@@ -6,7 +6,7 @@ This project demonstrates the practical application of NLP techniques for buildi
 
 ---
 
-## 📌 Overview
+##  Overview
 
 AskBot AI is a rule-based intelligent chatbot that answers user queries by finding the most similar question from a collection of Frequently Asked Questions (FAQs).
 
@@ -14,22 +14,22 @@ Unlike traditional keyword-based systems, AskBot AI preprocesses user input, con
 
 ---
 
-## ✨ Features
+## Features
 
-- 🤖 AI-powered FAQ chatbot
-- 🧠 Natural Language Processing (NLP)
-- 📝 Text preprocessing using NLTK
-- 🔤 Tokenization and stopword removal
-- 📊 TF-IDF Vectorization
-- 📐 Cosine Similarity for intelligent question matching
-- 💬 Interactive web interface using Gradio
-- ⚡ Fast and lightweight implementation
-- 🔄 Easily expandable FAQ database
-- 🖥️ Beginner-friendly project structure
+-  AI-powered FAQ chatbot
+-  Natural Language Processing (NLP)
+-  Text preprocessing using NLTK
+-  Tokenization and stopword removal
+-  TF-IDF Vectorization
+-  Cosine Similarity for intelligent question matching
+-  Interactive web interface using Gradio
+-  Fast and lightweight implementation
+-  Easily expandable FAQ database
+-  Beginner-friendly project structure
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -40,7 +40,7 @@ Unlike traditional keyword-based systems, AskBot AI preprocesses user input, con
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 AskBot-AI/
@@ -55,7 +55,7 @@ AskBot-AI/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 ### Step 1: User Enters a Question
 
@@ -116,7 +116,7 @@ Sorry, I couldn't understand your question.
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the Repository
 
@@ -138,7 +138,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the application:
 
@@ -156,7 +156,7 @@ Open the link in your web browser to interact with the chatbot.
 
 ---
 
-## 💬 Sample Questions
+##  Sample Questions
 
 Try asking:
 
@@ -170,10 +170,10 @@ Try asking:
 - What is Computer Vision?
 - What is Generative AI?
 - What is a Chatbot?
-
+ and many more
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Create a folder named **screenshots** inside the project directory and add images of the chatbot interface.
 
@@ -190,21 +190,21 @@ screenshots/
 You can then display them in your README like this:
 
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
-- 🎤 Voice-enabled chatbot
-- 🌐 Multi-language support
-- 🗄️ Database integration
-- 👤 User authentication
-- 📈 Chat history
-- ☁️ Cloud deployment
-- 📄 Upload PDF and answer questions
-- 🤖 Integration with Large Language Models (LLMs)
-- 📱 Mobile-friendly interface
+-  Voice-enabled chatbot
+-  Multi-language support
+-  Database integration
+-  User authentication
+-  Chat history
+-  Cloud deployment
+-  Upload PDF and answer questions
+-  Integration with Large Language Models (LLMs)
+-  Mobile-friendly interface
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.10+
 - NLTK
@@ -219,7 +219,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Through this project, you will understand:
 
@@ -235,19 +235,19 @@ Through this project, you will understand:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Durga Shekhawat**
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 ---
-## 📌 Internship Project
+## Internship Project
 
 This project was developed as part of the **Artificial Intelligence Internship Program** offered by **CodeAlpha**. The objective was to design and implement an AI-powered FAQ chatbot using Natural Language Processing (NLP) techniques, including text preprocessing, TF-IDF vectorization, and cosine similarity for intelligent question matching. 
 
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
